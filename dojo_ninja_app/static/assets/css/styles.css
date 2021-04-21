@@ -1,0 +1,9 @@
+.ninja_display {
+  height: 400px;
+  width: 1220px;
+  display: flex;
+  background-color: cadetblue;
+  color: black;
+  flex-direction: column;
+  overflow: scroll;
+}
